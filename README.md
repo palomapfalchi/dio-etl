@@ -5,8 +5,8 @@ Este projeto demonstra como criar mensagens de marketing personalizadas para inc
 
 ## Requisitos
 
-- Python (versão X.X.X)
-- Jupyter Notebook (opcional)
+- Python (versão 3.8.10)
+- Jupyter Notebook
 - Bibliotecas Python: requests, pandas, openai
 
 ## Configuração
@@ -14,8 +14,8 @@ Este projeto demonstra como criar mensagens de marketing personalizadas para inc
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/seuprojeto.git
-   cd seuprojeto
+   git clone https://github.com/palomapfalchi/dio-etl.git
+   cd dio-etl
 
 2. Executar o projeto: 
    ```bash
